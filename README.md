@@ -2,7 +2,9 @@
 A system that extends (and empower) the functionalities of [dontpad.com](http://dontpad.com/)
 
 ## Motivation
-dontpad.com is a great idea developed by André Faria made on top of "Distraction Free Writing" idea. The explanation about the creation of this system may be find [here] (http://blog.andrefaria.com/projetos)
+I already had a basic programming background in PHP and recently i was hired to manage a team in a IT project inside of IPEA. The team decided to build this project using Lumen, so i decided to learn Laravel/Lumen (starting from the time that i'm writing this README file :P) and thus, i can contribute better with my team.
+
+Dontpad.com is a great idea developed by André Faria made on top of "Distraction Free Writing" idea. The explanation about the creation of this system may be find [here] (http://blog.andrefaria.com/projetos)
 
 Today, donpad allow you write in an blank page (using any URL) and allows you download all data as .zip file. However, anyone that wants to access these URLs can view and edit these messages, and sometimes it brings a lot of troubles.
 
